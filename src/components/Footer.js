@@ -3,7 +3,7 @@ import { Box, Stack, Typography } from "@mui/material";
 import Logo from "../assets/images/Logo2.png";
 
 const Footer = () => (
-  <Box mt="50px" bgcolor="#17122e">
+  <Box mt="50px" width="100%" bgcolor="#17122e">
     <Stack
       gap="40px"
       sx={{ alignItems: "center" }}
